@@ -6,16 +6,19 @@ Dalam artikel ini, kami akan melakukan pra-proses, dan melakukan Analisis menggu
 
 Tujuan utama dari Eksploratory Data Analysis (EDA) yaitu ;
 
-Tujuan utama dari EDA adalah untuk memahami struktur, karakteristik, dan pola dalam data. Pada tahap ini, Anda memiliki misi untuk menemukan insight atau informasi yang tersembunyi dalam data, mengidentifikasi anomali, serta memahami hubungan antar variabel.
-EDA bersifat eksploratif dan terbuka sehingga Anda tidak memiliki hipotesis yang pasti di awal prosesnya. Sebaliknya, Anda dapat menggunakan EDA untuk membangun hipotesis atau memahami lebih dalam data yang mereka miliki baik dalam Internal & Eksternal organisasi.
+(1) Tujuan utama dari EDA adalah untuk memahami struktur, karakteristik, dan pola dalam data. Pada tahap ini, Anda memiliki misi untuk menemukan insight atau informasi yang tersembunyi dalam data, mengidentifikasi anomali, serta memahami hubungan antar variabel.
+
+(2) EDA bersifat eksploratif dan terbuka sehingga Anda tidak memiliki hipotesis yang pasti di awal prosesnya. Sebaliknya, Anda dapat menggunakan EDA untuk membangun hipotesis atau memahami lebih dalam data yang mereka miliki baik dalam Internal & Eksternal organisasi.
+
 Langkah-langkah untuk Eksploratory Data Analysis (EDA) dengan Python
 
-Mengimpor library python
-Membaca & identifikasi database
-Analisis data
-Menangani nilai yang hilang (Missing Value) & cek duplikasi data
-Analisis data dengan metode Univariate Analysis
-Visualisasi data
+1. Mengimpor library python
+2. Membaca & identifikasi database
+3. Analisis data
+4. Menangani nilai yang hilang (Missing Value) & cek duplikasi data
+5. Analisis data dengan metode Univariate Analysis
+6. Visualisasi data
+
 Sebagai langkah awal, loading dataset adalah langkah pertama yang sangat penting dalam alur kerja Machine Learning. Proses ini mencakup pengambilan data dari sumber Internal atau Eksternal seperti; file CSV, file Excel, database, API dan sumber data lainnya.
 
 Mari kita masuk ke tahap pertama, yaitu membaca dan identifikasi data base yang sudah di unduh dari sumber eksternal dengan format file CSV dengan menggunakan Pandas dalam Python.
