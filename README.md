@@ -18,7 +18,3 @@ Langkah-langkah untuk Eksploratory Data Analysis (EDA) dengan Python
 4. Menangani nilai yang hilang (Missing Value) & cek duplikasi data
 5. Analisis data dengan metode Univariate Analysis
 6. Visualisasi data
-
-Sebagai langkah awal, loading dataset adalah langkah pertama yang sangat penting dalam alur kerja Machine Learning. Proses ini mencakup pengambilan data dari sumber Internal atau Eksternal seperti; file CSV, file Excel, database, API dan sumber data lainnya.
-
-Mari kita masuk ke tahap pertama, yaitu membaca dan identifikasi data base yang sudah di unduh dari sumber eksternal dengan format file CSV dengan menggunakan Pandas dalam Python.
